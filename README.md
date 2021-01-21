@@ -1,5 +1,5 @@
 # niemiecko-polska klawiatura
-Niemiecko-Polska Klawiatura Fonetyczna dla Windows XP/Vista/7/8/10
+Niemiecko-Polska Klawiatura dla Windows XP/Vista/7/8/10
 
 # Idea niemiecko-polsko klawiatury
 Posiadając niemiecką klawiaturę móc jednocześnie pisać używając niemieckich znaków diakrytycznych jak i polskich (Alt+litera). Jest to więc połącznie klasycznej niemieckiej klawiatury z polskim układem klawiatury programisty
